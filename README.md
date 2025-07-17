@@ -28,12 +28,12 @@ Data on 630 data professionals around the world, including details on their coun
 ⚖️ Work & Pay: Average satisfaction is higher for work-life balance (5.7/10) than salary (4.3/10), showing many feel underpaid for the work they do.
 
 <h3> 📸 Dashboard </h3>
-
+![Data Professional Survey Dashboard](https://user-images.githubusercontent.com/122845161/326866758-b338e574-5fc5-49d0-8322-552b1cbf2727.png)
 
 
 
 📬 Let’s Connect
 If you found this interesting, feel free to ⭐️ the repo or reach out!
-📧 [Your Email]
-🔗 [LinkedIn Profile Link]
+📧 samanthalew04@gmail.com
+🔗 https://www.linkedin.com/in/samanthalew7/
 
